@@ -1,6 +1,12 @@
-# Hotdog or Not( ML/IOS )
+# Hotdog or Not :  ML && IOS
+## Image Recognition Model
+## The Link Video Of The Project :  
 ## Finished App:
-<video width="618" height="347" controls preload> 
-    <source src="video.MP4" media="only screen and (min-device-width: 568px)"></source>
-    <source src="video.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
-</video>
+![Finished App](https://github.com/abdelrahmaan/Hotdog-or-Not---ML-IOS/tree/master/Images.IMG_0787.PNG)
+![Finished App](https://github.com/abdelrahmaan/Hotdog-or-Not---ML-IOS/tree/master/Images.IMG_0788.PNG)
+![Finished App](https://github.com/abdelrahmaan/Hotdog-or-Not---ML-IOS/tree/master/Images.IMG_0789.PNG)
+![Finished App](https://github.com/abdelrahmaan/Hotdog-or-Not---ML-IOS/tree/master/Images.IMG_0790.PNG)
+![Finished App](https://github.com/abdelrahmaan/Hotdog-or-Not---ML-IOS/tree/master/Images.IMG_0791.PNG)
+![Finished App](https://github.com/abdelrahmaan/Hotdog-or-Not---ML-IOS/tree/master/Images.IMG_0792.PNG)
+![Finished App](https://github.com/abdelrahmaan/Hotdog-or-Not---ML-IOS/tree/master/Images.IMG_0793.PNG)
+
