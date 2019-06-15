@@ -1,6 +1,6 @@
 ## Hotdog or Not App :  Swift 4.2
 ## Machine Learning Model : Image Recognition Model
-## The Link Video Of The Project :  
+## The Link Video Of The Project :  https://youtu.be/_UJ60rvK56Y
 ## Finished App:
 ![1](Images/IMG_0787.PNG)
 ![2](Images/IMG_0788.PNG)
